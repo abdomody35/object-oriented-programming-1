@@ -16,7 +16,7 @@ int main() {
     /*
     test case 2 : str1 is Mahmoud and str2 is empty
     input : no input (function should swap the strings)
-    expected output : metwaly(\n)Mahmoud 
+    expected output :  Assigning into a empty stringMahmoud(\n)Mahmoud
     */
    String str3("Mahmoud"), str4;
     str3.swap(str4);
