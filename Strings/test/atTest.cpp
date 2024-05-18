@@ -18,5 +18,13 @@ using namespace std;
     */
     String str2 ("ABCD");
     cout<<str2.at(5)<<endl;
+
+    /*
+    test case 1
+    input : ABCD (c string) and call element number -2 in the string .
+    expected output : no thing , because we don't have an element number -2 in the string.
+    */
+    String str3 ("ABCD");
+    cout<<str3.at(-2)<<endl;
     return 0;
  }
