@@ -58,6 +58,11 @@ int main() {
 
 
 
+        String str6("Mahmoud");
+    str6.insert(NULL, 8);
+    str6.display();
+
+
 
     
 
