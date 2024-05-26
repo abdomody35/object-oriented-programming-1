@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
     
-     /*
+    /*
     Test Case 1: 
     Input: cstr = "metwaly", start = 0
     Expected Output: metwalyMahmoud
@@ -43,7 +43,7 @@ int main() {
     str4.insert("", 5);
     str4.display();
 
-/*
+    /*
     Test Case 5: 
     Input: cstr = "metwaly", start = -2
     Expected Output: No output
@@ -62,7 +62,7 @@ int main() {
     */
 
 
-        String str6("Mahmoud");
+    String str6("Mahmoud");
     str6.insert(NULL, 8);
     str6.display();
 
