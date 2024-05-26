@@ -55,7 +55,11 @@ int main() {
     str5.display();
 
     
-
+    /*
+    Test Case 6: 
+    Input: cstr = NULL, start = 8
+    Expected Output: No output
+    */
 
 
         String str6("Mahmoud");
